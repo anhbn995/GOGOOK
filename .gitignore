@@ -169,3 +169,12 @@ cython_debug/
 Done_SHIP/sdd_faster/train_custom
 Done_SHIP/YOLOV7/yolov7/pretrain/yolov7.pt
 Done_SHIP/YOLOV7/yolov7/traced_model.pt
+Done_SHIP/Test_hay/MiAI_SSD_TF2/data/split_data
+
+*README.md
+*.csv
+*.png
+*.jpg
+*.jpeg
+Done_SHIP/Test_hay/MiAI_SSD_TF2/output_model
+Done_SHIP/Test_hay/MiAI_SSD_TF2/pretrained
