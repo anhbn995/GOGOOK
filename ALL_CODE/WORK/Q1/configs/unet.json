@@ -1,0 +1,52 @@
+{
+    "input_size": [
+        256,
+        256,
+        3
+    ],
+    "filter_num": [
+        64,
+        128,
+        256,
+        512,
+        1024
+    ],
+    "n_labels": 1,
+    "stack_num_down": 2,
+    "stack_num_up": 2,
+    "activation": "ReLU",
+    "output_activation": "Sigmoid",
+    "batch_norm": true,
+    "pool": true,
+    "unpool": true,
+    "backbone": null,
+    "weights": "imagenet",
+    "freeze_backbone": false,
+    "freeze_batch_norm": true,
+    "name": "unet",
+    "data":{"img_size":256,
+        "num_band":3,
+        "stride_crop":128,
+        "split_ratios":1.0,
+        "use_test":false,
+        "use_multi":false
+        },
+    "strategy":{"epochs":100,
+            "batch_size":4,
+            "init_loss":1e-3,
+            "_comment":["BinaryCrossentropy()"],
+       	    "_comment":["binary_focal_loss(alpha=.25, gamma=2)"],
+	    "losses":["balanced_cross_entropy_loss"],
+            "loss_weights":[1.0],
+            "optimizer":"Adam()",
+            "metrics":["Precision()", "Recall()", "dice_coef", "iou", "BinaryAccuracy(threshold=0.5)"]
+            },
+    "predict":{"img_size":256,
+                "crop_size":200,
+                "num_band":3,
+                "batch_size":2,
+                "thresh_hold":0.5,
+                "use_dil":false,
+                "rm_small":false
+             }
+}
