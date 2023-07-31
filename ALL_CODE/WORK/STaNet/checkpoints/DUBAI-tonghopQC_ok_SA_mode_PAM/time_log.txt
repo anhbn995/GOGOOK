@@ -1,0 +1,23 @@
+================ training time (Fri Dec  2 09:12:35 2022) ================
+================ training time (Fri Dec  2 09:17:16 2022) ================
+================ training time (Fri Dec  2 09:17:50 2022) ================
+================ training time (Fri Dec  2 09:18:50 2022) ================
+================ training time (Fri Dec  2 09:20:34 2022) ================
+================ training time (Fri Dec  2 09:21:57 2022) ================
+================ training time (Fri Dec  2 09:24:15 2022) ================
+================ training time (Fri Dec  2 09:24:56 2022) ================
+================ training time (Fri Dec  2 09:49:52 2022) ================
+================ training time (Fri Dec  2 09:50:55 2022) ================
+================ training time (Fri Dec  2 09:53:03 2022) ================
+================ training time (Fri Dec  2 09:53:41 2022) ================
+================ training time (Fri Dec  2 10:04:46 2022) ================
+================ training time (Fri Dec  2 10:05:40 2022) ================
+================ training time (Fri Dec  2 10:09:31 2022) ================
+(epoch: 1) current_t_epoch: 182.032 
+(epoch: 2) current_t_epoch: 178.957 
+(epoch: 3) current_t_epoch: 178.372 
+(epoch: 4) current_t_epoch: 181.656 
+(epoch: 5) current_t_epoch: 179.700 
+(epoch: 6) current_t_epoch: 179.099 
+(epoch: 7) current_t_epoch: 178.078 
+(epoch: 8) current_t_epoch: 179.023 

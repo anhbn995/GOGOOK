@@ -1,0 +1,400 @@
+================ val acc (Thu Dec 29 14:20:32 2022) ================
+(epoch: 1) Overall_Acc: 0.870 Mean_IoU: 0.522 0: 0.866 1: 0.177 precision_1: 0.206 recall_1: 0.559 F1_1: 0.301 
+================ val acc (Thu Dec 29 14:20:41 2022) ================
+(epoch: 2) Overall_Acc: 0.889 Mean_IoU: 0.560 0: 0.885 1: 0.235 precision_1: 0.265 recall_1: 0.681 F1_1: 0.381 
+================ val acc (Thu Dec 29 14:20:48 2022) ================
+(epoch: 3) Overall_Acc: 0.881 Mean_IoU: 0.559 0: 0.876 1: 0.243 precision_1: 0.263 recall_1: 0.763 F1_1: 0.391 
+================ val acc (Thu Dec 29 14:20:54 2022) ================
+(epoch: 4) Overall_Acc: 0.882 Mean_IoU: 0.564 0: 0.877 1: 0.251 precision_1: 0.269 recall_1: 0.786 F1_1: 0.401 
+================ val acc (Thu Dec 29 14:21:01 2022) ================
+(epoch: 5) Overall_Acc: 0.898 Mean_IoU: 0.581 0: 0.894 1: 0.269 precision_1: 0.296 recall_1: 0.749 F1_1: 0.424 
+================ val acc (Thu Dec 29 14:21:08 2022) ================
+(epoch: 6) Overall_Acc: 0.812 Mean_IoU: 0.486 0: 0.804 1: 0.168 precision_1: 0.178 recall_1: 0.759 F1_1: 0.288 
+================ val acc (Thu Dec 29 14:21:13 2022) ================
+(epoch: 7) Overall_Acc: 0.863 Mean_IoU: 0.543 0: 0.858 1: 0.228 precision_1: 0.242 recall_1: 0.806 F1_1: 0.372 
+================ val acc (Thu Dec 29 14:21:19 2022) ================
+(epoch: 8) Overall_Acc: 0.912 Mean_IoU: 0.606 0: 0.908 1: 0.304 precision_1: 0.335 recall_1: 0.768 F1_1: 0.467 
+================ val acc (Thu Dec 29 14:21:25 2022) ================
+(epoch: 9) Overall_Acc: 0.898 Mean_IoU: 0.583 0: 0.894 1: 0.273 precision_1: 0.298 recall_1: 0.765 F1_1: 0.429 
+================ val acc (Thu Dec 29 14:21:31 2022) ================
+(epoch: 10) Overall_Acc: 0.816 Mean_IoU: 0.498 0: 0.808 1: 0.187 precision_1: 0.194 recall_1: 0.846 F1_1: 0.316 
+================ val acc (Thu Dec 29 14:21:36 2022) ================
+(epoch: 11) Overall_Acc: 0.897 Mean_IoU: 0.585 0: 0.892 1: 0.278 precision_1: 0.300 recall_1: 0.796 F1_1: 0.436 
+================ val acc (Thu Dec 29 14:21:41 2022) ================
+(epoch: 12) Overall_Acc: 0.900 Mean_IoU: 0.590 0: 0.896 1: 0.285 precision_1: 0.307 recall_1: 0.798 F1_1: 0.444 
+================ val acc (Thu Dec 29 14:21:47 2022) ================
+(epoch: 13) Overall_Acc: 0.870 Mean_IoU: 0.552 0: 0.865 1: 0.240 precision_1: 0.253 recall_1: 0.815 F1_1: 0.387 
+================ val acc (Thu Dec 29 14:21:52 2022) ================
+(epoch: 14) Overall_Acc: 0.870 Mean_IoU: 0.554 0: 0.864 1: 0.243 precision_1: 0.256 recall_1: 0.833 F1_1: 0.391 
+================ val acc (Thu Dec 29 14:21:57 2022) ================
+(epoch: 15) Overall_Acc: 0.882 Mean_IoU: 0.554 0: 0.878 1: 0.230 precision_1: 0.255 recall_1: 0.700 F1_1: 0.374 
+================ val acc (Thu Dec 29 14:22:03 2022) ================
+(epoch: 16) Overall_Acc: 0.873 Mean_IoU: 0.557 0: 0.868 1: 0.246 precision_1: 0.260 recall_1: 0.825 F1_1: 0.395 
+================ val acc (Thu Dec 29 14:22:08 2022) ================
+(epoch: 17) Overall_Acc: 0.915 Mean_IoU: 0.600 0: 0.912 1: 0.288 precision_1: 0.332 recall_1: 0.685 F1_1: 0.448 
+================ val acc (Thu Dec 29 14:22:13 2022) ================
+(epoch: 18) Overall_Acc: 0.907 Mean_IoU: 0.591 0: 0.904 1: 0.278 precision_1: 0.313 recall_1: 0.716 F1_1: 0.436 
+================ val acc (Thu Dec 29 14:22:19 2022) ================
+(epoch: 19) Overall_Acc: 0.778 Mean_IoU: 0.466 0: 0.768 1: 0.164 precision_1: 0.168 recall_1: 0.871 F1_1: 0.282 
+================ val acc (Thu Dec 29 14:22:24 2022) ================
+(epoch: 20) Overall_Acc: 0.907 Mean_IoU: 0.594 0: 0.904 1: 0.284 precision_1: 0.317 recall_1: 0.733 F1_1: 0.443 
+================ val acc (Thu Dec 29 14:22:29 2022) ================
+(epoch: 21) Overall_Acc: 0.803 Mean_IoU: 0.483 0: 0.794 1: 0.171 precision_1: 0.178 recall_1: 0.812 F1_1: 0.292 
+================ val acc (Thu Dec 29 14:22:35 2022) ================
+(epoch: 22) Overall_Acc: 0.938 Mean_IoU: 0.629 0: 0.936 1: 0.323 precision_1: 0.416 recall_1: 0.591 F1_1: 0.488 
+================ val acc (Thu Dec 29 14:22:41 2022) ================
+(epoch: 23) Overall_Acc: 0.907 Mean_IoU: 0.600 0: 0.904 1: 0.296 precision_1: 0.324 recall_1: 0.777 F1_1: 0.457 
+================ val acc (Thu Dec 29 14:22:46 2022) ================
+(epoch: 24) Overall_Acc: 0.922 Mean_IoU: 0.611 0: 0.919 1: 0.302 precision_1: 0.354 recall_1: 0.674 F1_1: 0.464 
+================ val acc (Thu Dec 29 14:22:52 2022) ================
+(epoch: 25) Overall_Acc: 0.908 Mean_IoU: 0.597 0: 0.904 1: 0.289 precision_1: 0.320 recall_1: 0.744 F1_1: 0.448 
+================ val acc (Thu Dec 29 14:22:57 2022) ================
+(epoch: 26) Overall_Acc: 0.930 Mean_IoU: 0.627 0: 0.927 1: 0.327 precision_1: 0.386 recall_1: 0.683 F1_1: 0.493 
+================ val acc (Thu Dec 29 14:23:05 2022) ================
+(epoch: 27) Overall_Acc: 0.935 Mean_IoU: 0.633 0: 0.933 1: 0.333 precision_1: 0.406 recall_1: 0.648 F1_1: 0.499 
+================ val acc (Thu Dec 29 14:23:11 2022) ================
+(epoch: 28) Overall_Acc: 0.893 Mean_IoU: 0.581 0: 0.889 1: 0.273 precision_1: 0.293 recall_1: 0.800 F1_1: 0.429 
+================ val acc (Thu Dec 29 14:23:17 2022) ================
+(epoch: 29) Overall_Acc: 0.895 Mean_IoU: 0.584 0: 0.891 1: 0.277 precision_1: 0.297 recall_1: 0.802 F1_1: 0.434 
+================ val acc (Thu Dec 29 14:23:22 2022) ================
+(epoch: 30) Overall_Acc: 0.852 Mean_IoU: 0.527 0: 0.846 1: 0.208 precision_1: 0.221 recall_1: 0.777 F1_1: 0.344 
+================ val acc (Thu Dec 29 14:23:28 2022) ================
+(epoch: 31) Overall_Acc: 0.914 Mean_IoU: 0.603 0: 0.911 1: 0.294 precision_1: 0.334 recall_1: 0.710 F1_1: 0.454 
+================ val acc (Thu Dec 29 14:23:33 2022) ================
+(epoch: 32) Overall_Acc: 0.848 Mean_IoU: 0.529 0: 0.842 1: 0.215 precision_1: 0.225 recall_1: 0.830 F1_1: 0.355 
+================ val acc (Thu Dec 29 14:23:39 2022) ================
+(epoch: 33) Overall_Acc: 0.939 Mean_IoU: 0.631 0: 0.937 1: 0.326 precision_1: 0.421 recall_1: 0.591 F1_1: 0.492 
+================ val acc (Thu Dec 29 14:23:44 2022) ================
+(epoch: 34) Overall_Acc: 0.908 Mean_IoU: 0.598 0: 0.904 1: 0.291 precision_1: 0.322 recall_1: 0.754 F1_1: 0.451 
+================ val acc (Thu Dec 29 14:23:49 2022) ================
+(epoch: 35) Overall_Acc: 0.926 Mean_IoU: 0.612 0: 0.924 1: 0.299 precision_1: 0.364 recall_1: 0.625 F1_1: 0.460 
+================ val acc (Thu Dec 29 14:23:55 2022) ================
+(epoch: 36) Overall_Acc: 0.934 Mean_IoU: 0.636 0: 0.932 1: 0.341 precision_1: 0.406 recall_1: 0.679 F1_1: 0.508 
+================ val acc (Thu Dec 29 14:24:01 2022) ================
+(epoch: 37) Overall_Acc: 0.918 Mean_IoU: 0.607 0: 0.915 1: 0.299 precision_1: 0.344 recall_1: 0.696 F1_1: 0.461 
+================ val acc (Thu Dec 29 14:24:06 2022) ================
+(epoch: 38) Overall_Acc: 0.915 Mean_IoU: 0.609 0: 0.912 1: 0.307 precision_1: 0.343 recall_1: 0.745 F1_1: 0.469 
+================ val acc (Thu Dec 29 14:24:12 2022) ================
+(epoch: 39) Overall_Acc: 0.915 Mean_IoU: 0.608 0: 0.911 1: 0.305 precision_1: 0.340 recall_1: 0.744 F1_1: 0.467 
+================ val acc (Thu Dec 29 14:24:17 2022) ================
+(epoch: 40) Overall_Acc: 0.915 Mean_IoU: 0.609 0: 0.912 1: 0.306 precision_1: 0.342 recall_1: 0.744 F1_1: 0.469 
+================ val acc (Thu Dec 29 14:24:22 2022) ================
+(epoch: 41) Overall_Acc: 0.900 Mean_IoU: 0.585 0: 0.896 1: 0.275 precision_1: 0.301 recall_1: 0.760 F1_1: 0.431 
+================ val acc (Thu Dec 29 14:24:28 2022) ================
+(epoch: 42) Overall_Acc: 0.941 Mean_IoU: 0.634 0: 0.940 1: 0.329 precision_1: 0.436 recall_1: 0.571 F1_1: 0.495 
+================ val acc (Thu Dec 29 14:24:33 2022) ================
+(epoch: 43) Overall_Acc: 0.931 Mean_IoU: 0.629 0: 0.928 1: 0.330 precision_1: 0.391 recall_1: 0.681 F1_1: 0.496 
+================ val acc (Thu Dec 29 14:24:38 2022) ================
+(epoch: 44) Overall_Acc: 0.944 Mean_IoU: 0.643 0: 0.942 1: 0.345 precision_1: 0.453 recall_1: 0.592 F1_1: 0.513 
+================ val acc (Thu Dec 29 14:24:45 2022) ================
+(epoch: 45) Overall_Acc: 0.939 Mean_IoU: 0.635 0: 0.937 1: 0.334 precision_1: 0.424 recall_1: 0.611 F1_1: 0.500 
+================ val acc (Thu Dec 29 14:24:50 2022) ================
+(epoch: 46) Overall_Acc: 0.923 Mean_IoU: 0.612 0: 0.921 1: 0.303 precision_1: 0.358 recall_1: 0.665 F1_1: 0.465 
+================ val acc (Thu Dec 29 14:24:55 2022) ================
+(epoch: 47) Overall_Acc: 0.922 Mean_IoU: 0.614 0: 0.919 1: 0.309 precision_1: 0.357 recall_1: 0.695 F1_1: 0.472 
+================ val acc (Thu Dec 29 14:25:00 2022) ================
+(epoch: 48) Overall_Acc: 0.935 Mean_IoU: 0.630 0: 0.933 1: 0.328 precision_1: 0.404 recall_1: 0.635 F1_1: 0.494 
+================ val acc (Thu Dec 29 14:25:06 2022) ================
+(epoch: 49) Overall_Acc: 0.915 Mean_IoU: 0.605 0: 0.912 1: 0.297 precision_1: 0.337 recall_1: 0.714 F1_1: 0.458 
+================ val acc (Thu Dec 29 14:25:11 2022) ================
+(epoch: 50) Overall_Acc: 0.935 Mean_IoU: 0.634 0: 0.933 1: 0.336 precision_1: 0.409 recall_1: 0.652 F1_1: 0.503 
+================ val acc (Thu Dec 29 14:25:16 2022) ================
+(epoch: 51) Overall_Acc: 0.941 Mean_IoU: 0.637 0: 0.939 1: 0.334 precision_1: 0.433 recall_1: 0.593 F1_1: 0.501 
+================ val acc (Thu Dec 29 14:25:22 2022) ================
+(epoch: 52) Overall_Acc: 0.923 Mean_IoU: 0.615 0: 0.921 1: 0.309 precision_1: 0.361 recall_1: 0.683 F1_1: 0.472 
+================ val acc (Thu Dec 29 14:25:28 2022) ================
+(epoch: 53) Overall_Acc: 0.943 Mean_IoU: 0.645 0: 0.941 1: 0.349 precision_1: 0.450 recall_1: 0.608 F1_1: 0.517 
+================ val acc (Thu Dec 29 14:25:34 2022) ================
+(epoch: 54) Overall_Acc: 0.939 Mean_IoU: 0.635 0: 0.937 1: 0.332 precision_1: 0.426 recall_1: 0.602 F1_1: 0.499 
+================ val acc (Thu Dec 29 14:25:39 2022) ================
+(epoch: 55) Overall_Acc: 0.941 Mean_IoU: 0.633 0: 0.939 1: 0.327 precision_1: 0.432 recall_1: 0.574 F1_1: 0.493 
+================ val acc (Thu Dec 29 14:25:45 2022) ================
+(epoch: 56) Overall_Acc: 0.939 Mean_IoU: 0.634 0: 0.937 1: 0.330 precision_1: 0.423 recall_1: 0.600 F1_1: 0.496 
+================ val acc (Thu Dec 29 14:25:50 2022) ================
+(epoch: 57) Overall_Acc: 0.934 Mean_IoU: 0.626 0: 0.931 1: 0.321 precision_1: 0.397 recall_1: 0.625 F1_1: 0.486 
+================ val acc (Thu Dec 29 14:25:55 2022) ================
+(epoch: 58) Overall_Acc: 0.939 Mean_IoU: 0.635 0: 0.937 1: 0.333 precision_1: 0.423 recall_1: 0.610 F1_1: 0.500 
+================ val acc (Thu Dec 29 14:26:01 2022) ================
+(epoch: 59) Overall_Acc: 0.945 Mean_IoU: 0.641 0: 0.943 1: 0.339 precision_1: 0.458 recall_1: 0.566 F1_1: 0.506 
+================ val acc (Thu Dec 29 14:26:06 2022) ================
+(epoch: 60) Overall_Acc: 0.930 Mean_IoU: 0.622 0: 0.928 1: 0.316 precision_1: 0.382 recall_1: 0.645 F1_1: 0.480 
+================ val acc (Thu Dec 29 14:26:11 2022) ================
+(epoch: 61) Overall_Acc: 0.946 Mean_IoU: 0.632 0: 0.945 1: 0.318 precision_1: 0.468 recall_1: 0.499 F1_1: 0.483 
+================ val acc (Thu Dec 29 14:26:16 2022) ================
+(epoch: 62) Overall_Acc: 0.944 Mean_IoU: 0.640 0: 0.942 1: 0.338 precision_1: 0.451 recall_1: 0.573 F1_1: 0.505 
+================ val acc (Thu Dec 29 14:26:22 2022) ================
+(epoch: 63) Overall_Acc: 0.947 Mean_IoU: 0.637 0: 0.946 1: 0.328 precision_1: 0.476 recall_1: 0.513 F1_1: 0.494 
+================ val acc (Thu Dec 29 14:26:27 2022) ================
+(epoch: 64) Overall_Acc: 0.939 Mean_IoU: 0.639 0: 0.937 1: 0.340 precision_1: 0.428 recall_1: 0.623 F1_1: 0.508 
+================ val acc (Thu Dec 29 14:26:32 2022) ================
+(epoch: 65) Overall_Acc: 0.946 Mean_IoU: 0.639 0: 0.945 1: 0.333 precision_1: 0.469 recall_1: 0.535 F1_1: 0.500 
+================ val acc (Thu Dec 29 14:26:37 2022) ================
+(epoch: 66) Overall_Acc: 0.943 Mean_IoU: 0.647 0: 0.941 1: 0.352 precision_1: 0.451 recall_1: 0.617 F1_1: 0.521 
+================ val acc (Thu Dec 29 14:26:44 2022) ================
+(epoch: 67) Overall_Acc: 0.925 Mean_IoU: 0.613 0: 0.923 1: 0.302 precision_1: 0.363 recall_1: 0.644 F1_1: 0.464 
+================ val acc (Thu Dec 29 14:26:49 2022) ================
+(epoch: 68) Overall_Acc: 0.928 Mean_IoU: 0.618 0: 0.926 1: 0.311 precision_1: 0.375 recall_1: 0.646 F1_1: 0.474 
+================ val acc (Thu Dec 29 14:26:54 2022) ================
+(epoch: 69) Overall_Acc: 0.945 Mean_IoU: 0.632 0: 0.943 1: 0.321 precision_1: 0.457 recall_1: 0.519 F1_1: 0.486 
+================ val acc (Thu Dec 29 14:27:00 2022) ================
+(epoch: 70) Overall_Acc: 0.934 Mean_IoU: 0.626 0: 0.931 1: 0.321 precision_1: 0.397 recall_1: 0.626 F1_1: 0.486 
+================ val acc (Thu Dec 29 14:27:05 2022) ================
+(epoch: 71) Overall_Acc: 0.945 Mean_IoU: 0.636 0: 0.943 1: 0.329 precision_1: 0.459 recall_1: 0.537 F1_1: 0.495 
+================ val acc (Thu Dec 29 14:27:10 2022) ================
+(epoch: 72) Overall_Acc: 0.940 Mean_IoU: 0.638 0: 0.938 1: 0.338 precision_1: 0.429 recall_1: 0.616 F1_1: 0.505 
+================ val acc (Thu Dec 29 14:27:16 2022) ================
+(epoch: 73) Overall_Acc: 0.936 Mean_IoU: 0.624 0: 0.934 1: 0.313 precision_1: 0.405 recall_1: 0.579 F1_1: 0.477 
+================ val acc (Thu Dec 29 14:27:21 2022) ================
+(epoch: 74) Overall_Acc: 0.903 Mean_IoU: 0.581 0: 0.900 1: 0.263 precision_1: 0.298 recall_1: 0.687 F1_1: 0.416 
+================ val acc (Thu Dec 29 14:27:26 2022) ================
+(epoch: 75) Overall_Acc: 0.943 Mean_IoU: 0.629 0: 0.941 1: 0.317 precision_1: 0.440 recall_1: 0.531 F1_1: 0.481 
+================ val acc (Thu Dec 29 14:27:31 2022) ================
+(epoch: 76) Overall_Acc: 0.946 Mean_IoU: 0.645 0: 0.945 1: 0.346 precision_1: 0.470 recall_1: 0.569 F1_1: 0.514 
+================ val acc (Thu Dec 29 14:27:37 2022) ================
+(epoch: 77) Overall_Acc: 0.930 Mean_IoU: 0.611 0: 0.928 1: 0.294 precision_1: 0.373 recall_1: 0.581 F1_1: 0.454 
+================ val acc (Thu Dec 29 14:27:43 2022) ================
+(epoch: 78) Overall_Acc: 0.934 Mean_IoU: 0.633 0: 0.931 1: 0.335 precision_1: 0.402 recall_1: 0.667 F1_1: 0.502 
+================ val acc (Thu Dec 29 14:27:49 2022) ================
+(epoch: 79) Overall_Acc: 0.937 Mean_IoU: 0.636 0: 0.934 1: 0.337 precision_1: 0.414 recall_1: 0.643 F1_1: 0.504 
+================ val acc (Thu Dec 29 14:27:54 2022) ================
+(epoch: 80) Overall_Acc: 0.951 Mean_IoU: 0.647 0: 0.950 1: 0.344 precision_1: 0.511 recall_1: 0.513 F1_1: 0.512 
+================ val acc (Thu Dec 29 14:28:00 2022) ================
+(epoch: 81) Overall_Acc: 0.924 Mean_IoU: 0.604 0: 0.922 1: 0.287 precision_1: 0.353 recall_1: 0.606 F1_1: 0.446 
+================ val acc (Thu Dec 29 14:28:05 2022) ================
+(epoch: 82) Overall_Acc: 0.951 Mean_IoU: 0.642 0: 0.950 1: 0.334 precision_1: 0.512 recall_1: 0.490 F1_1: 0.501 
+================ val acc (Thu Dec 29 14:28:10 2022) ================
+(epoch: 83) Overall_Acc: 0.948 Mean_IoU: 0.636 0: 0.947 1: 0.326 precision_1: 0.482 recall_1: 0.501 F1_1: 0.492 
+================ val acc (Thu Dec 29 14:28:16 2022) ================
+(epoch: 84) Overall_Acc: 0.948 Mean_IoU: 0.640 0: 0.947 1: 0.334 precision_1: 0.483 recall_1: 0.519 F1_1: 0.501 
+================ val acc (Thu Dec 29 14:28:21 2022) ================
+(epoch: 85) Overall_Acc: 0.942 Mean_IoU: 0.639 0: 0.940 1: 0.338 precision_1: 0.440 recall_1: 0.592 F1_1: 0.505 
+================ val acc (Thu Dec 29 14:28:27 2022) ================
+(epoch: 86) Overall_Acc: 0.946 Mean_IoU: 0.640 0: 0.944 1: 0.336 precision_1: 0.464 recall_1: 0.549 F1_1: 0.503 
+================ val acc (Thu Dec 29 14:28:32 2022) ================
+(epoch: 87) Overall_Acc: 0.950 Mean_IoU: 0.643 0: 0.948 1: 0.337 precision_1: 0.498 recall_1: 0.510 F1_1: 0.504 
+================ val acc (Thu Dec 29 14:28:37 2022) ================
+(epoch: 88) Overall_Acc: 0.952 Mean_IoU: 0.645 0: 0.950 1: 0.340 precision_1: 0.517 recall_1: 0.497 F1_1: 0.507 
+================ val acc (Thu Dec 29 14:28:43 2022) ================
+(epoch: 89) Overall_Acc: 0.946 Mean_IoU: 0.637 0: 0.944 1: 0.330 precision_1: 0.464 recall_1: 0.532 F1_1: 0.496 
+================ val acc (Thu Dec 29 14:28:48 2022) ================
+(epoch: 90) Overall_Acc: 0.946 Mean_IoU: 0.636 0: 0.944 1: 0.327 precision_1: 0.463 recall_1: 0.529 F1_1: 0.493 
+================ val acc (Thu Dec 29 14:28:54 2022) ================
+(epoch: 91) Overall_Acc: 0.946 Mean_IoU: 0.641 0: 0.944 1: 0.338 precision_1: 0.467 recall_1: 0.550 F1_1: 0.505 
+================ val acc (Thu Dec 29 14:28:59 2022) ================
+(epoch: 92) Overall_Acc: 0.945 Mean_IoU: 0.636 0: 0.944 1: 0.328 precision_1: 0.462 recall_1: 0.530 F1_1: 0.494 
+================ val acc (Thu Dec 29 14:29:04 2022) ================
+(epoch: 93) Overall_Acc: 0.945 Mean_IoU: 0.641 0: 0.944 1: 0.339 precision_1: 0.463 recall_1: 0.559 F1_1: 0.506 
+================ val acc (Thu Dec 29 14:29:10 2022) ================
+(epoch: 94) Overall_Acc: 0.942 Mean_IoU: 0.638 0: 0.940 1: 0.336 precision_1: 0.441 recall_1: 0.587 F1_1: 0.503 
+================ val acc (Thu Dec 29 14:29:15 2022) ================
+(epoch: 95) Overall_Acc: 0.946 Mean_IoU: 0.633 0: 0.945 1: 0.320 precision_1: 0.467 recall_1: 0.505 F1_1: 0.485 
+================ val acc (Thu Dec 29 14:29:21 2022) ================
+(epoch: 96) Overall_Acc: 0.943 Mean_IoU: 0.628 0: 0.942 1: 0.313 precision_1: 0.445 recall_1: 0.515 F1_1: 0.477 
+================ val acc (Thu Dec 29 14:29:26 2022) ================
+(epoch: 97) Overall_Acc: 0.948 Mean_IoU: 0.634 0: 0.947 1: 0.322 precision_1: 0.485 recall_1: 0.489 F1_1: 0.487 
+================ val acc (Thu Dec 29 14:29:31 2022) ================
+(epoch: 98) Overall_Acc: 0.939 Mean_IoU: 0.628 0: 0.937 1: 0.318 precision_1: 0.421 recall_1: 0.564 F1_1: 0.482 
+================ val acc (Thu Dec 29 14:29:37 2022) ================
+(epoch: 99) Overall_Acc: 0.952 Mean_IoU: 0.636 0: 0.951 1: 0.321 precision_1: 0.527 recall_1: 0.451 F1_1: 0.486 
+================ val acc (Thu Dec 29 14:29:42 2022) ================
+(epoch: 100) Overall_Acc: 0.948 Mean_IoU: 0.638 0: 0.946 1: 0.329 precision_1: 0.480 recall_1: 0.510 F1_1: 0.495 
+================ val acc (Thu Dec 29 14:29:47 2022) ================
+(epoch: 101) Overall_Acc: 0.950 Mean_IoU: 0.642 0: 0.949 1: 0.336 precision_1: 0.506 recall_1: 0.500 F1_1: 0.503 
+================ val acc (Thu Dec 29 14:29:53 2022) ================
+(epoch: 102) Overall_Acc: 0.949 Mean_IoU: 0.638 0: 0.948 1: 0.328 precision_1: 0.495 recall_1: 0.493 F1_1: 0.494 
+================ val acc (Thu Dec 29 14:29:58 2022) ================
+(epoch: 103) Overall_Acc: 0.948 Mean_IoU: 0.641 0: 0.946 1: 0.336 precision_1: 0.481 recall_1: 0.526 F1_1: 0.503 
+================ val acc (Thu Dec 29 14:30:03 2022) ================
+(epoch: 104) Overall_Acc: 0.953 Mean_IoU: 0.636 0: 0.952 1: 0.321 precision_1: 0.533 recall_1: 0.447 F1_1: 0.486 
+================ val acc (Thu Dec 29 14:30:09 2022) ================
+(epoch: 105) Overall_Acc: 0.948 Mean_IoU: 0.628 0: 0.947 1: 0.310 precision_1: 0.481 recall_1: 0.466 F1_1: 0.473 
+================ val acc (Thu Dec 29 14:30:15 2022) ================
+(epoch: 106) Overall_Acc: 0.947 Mean_IoU: 0.629 0: 0.946 1: 0.312 precision_1: 0.472 recall_1: 0.480 F1_1: 0.476 
+================ val acc (Thu Dec 29 14:30:20 2022) ================
+(epoch: 107) Overall_Acc: 0.948 Mean_IoU: 0.641 0: 0.947 1: 0.334 precision_1: 0.486 recall_1: 0.517 F1_1: 0.501 
+================ val acc (Thu Dec 29 14:30:26 2022) ================
+(epoch: 108) Overall_Acc: 0.948 Mean_IoU: 0.636 0: 0.946 1: 0.325 precision_1: 0.478 recall_1: 0.504 F1_1: 0.491 
+================ val acc (Thu Dec 29 14:30:31 2022) ================
+(epoch: 109) Overall_Acc: 0.949 Mean_IoU: 0.643 0: 0.948 1: 0.339 precision_1: 0.495 recall_1: 0.518 F1_1: 0.506 
+================ val acc (Thu Dec 29 14:30:37 2022) ================
+(epoch: 110) Overall_Acc: 0.953 Mean_IoU: 0.633 0: 0.952 1: 0.314 precision_1: 0.541 recall_1: 0.428 F1_1: 0.478 
+================ val acc (Thu Dec 29 14:30:42 2022) ================
+(epoch: 111) Overall_Acc: 0.946 Mean_IoU: 0.633 0: 0.945 1: 0.321 precision_1: 0.465 recall_1: 0.508 F1_1: 0.485 
+================ val acc (Thu Dec 29 14:30:48 2022) ================
+(epoch: 112) Overall_Acc: 0.950 Mean_IoU: 0.633 0: 0.949 1: 0.317 precision_1: 0.503 recall_1: 0.462 F1_1: 0.481 
+================ val acc (Thu Dec 29 14:30:53 2022) ================
+(epoch: 113) Overall_Acc: 0.949 Mean_IoU: 0.629 0: 0.947 1: 0.311 precision_1: 0.487 recall_1: 0.463 F1_1: 0.475 
+================ val acc (Thu Dec 29 14:30:58 2022) ================
+(epoch: 114) Overall_Acc: 0.926 Mean_IoU: 0.603 0: 0.923 1: 0.282 precision_1: 0.353 recall_1: 0.582 F1_1: 0.440 
+================ val acc (Thu Dec 29 14:31:04 2022) ================
+(epoch: 115) Overall_Acc: 0.949 Mean_IoU: 0.630 0: 0.948 1: 0.312 precision_1: 0.491 recall_1: 0.462 F1_1: 0.476 
+================ val acc (Thu Dec 29 14:31:09 2022) ================
+(epoch: 116) Overall_Acc: 0.949 Mean_IoU: 0.648 0: 0.948 1: 0.348 precision_1: 0.493 recall_1: 0.543 F1_1: 0.517 
+================ val acc (Thu Dec 29 14:31:15 2022) ================
+(epoch: 117) Overall_Acc: 0.949 Mean_IoU: 0.638 0: 0.948 1: 0.329 precision_1: 0.493 recall_1: 0.497 F1_1: 0.495 
+================ val acc (Thu Dec 29 14:31:20 2022) ================
+(epoch: 118) Overall_Acc: 0.950 Mean_IoU: 0.635 0: 0.949 1: 0.321 precision_1: 0.501 recall_1: 0.471 F1_1: 0.486 
+================ val acc (Thu Dec 29 14:31:26 2022) ================
+(epoch: 119) Overall_Acc: 0.951 Mean_IoU: 0.635 0: 0.950 1: 0.319 precision_1: 0.519 recall_1: 0.454 F1_1: 0.484 
+================ val acc (Thu Dec 29 14:31:31 2022) ================
+(epoch: 120) Overall_Acc: 0.950 Mean_IoU: 0.637 0: 0.949 1: 0.326 precision_1: 0.504 recall_1: 0.479 F1_1: 0.491 
+================ val acc (Thu Dec 29 14:31:37 2022) ================
+(epoch: 121) Overall_Acc: 0.954 Mean_IoU: 0.631 0: 0.953 1: 0.309 precision_1: 0.553 recall_1: 0.412 F1_1: 0.472 
+================ val acc (Thu Dec 29 14:31:42 2022) ================
+(epoch: 122) Overall_Acc: 0.949 Mean_IoU: 0.636 0: 0.948 1: 0.324 precision_1: 0.491 recall_1: 0.488 F1_1: 0.490 
+================ val acc (Thu Dec 29 14:31:48 2022) ================
+(epoch: 123) Overall_Acc: 0.947 Mean_IoU: 0.639 0: 0.945 1: 0.333 precision_1: 0.471 recall_1: 0.533 F1_1: 0.500 
+================ val acc (Thu Dec 29 14:31:53 2022) ================
+(epoch: 124) Overall_Acc: 0.946 Mean_IoU: 0.639 0: 0.945 1: 0.333 precision_1: 0.468 recall_1: 0.535 F1_1: 0.499 
+================ val acc (Thu Dec 29 14:31:58 2022) ================
+(epoch: 125) Overall_Acc: 0.952 Mean_IoU: 0.643 0: 0.951 1: 0.336 precision_1: 0.520 recall_1: 0.487 F1_1: 0.503 
+================ val acc (Thu Dec 29 14:32:04 2022) ================
+(epoch: 126) Overall_Acc: 0.951 Mean_IoU: 0.625 0: 0.950 1: 0.300 precision_1: 0.515 recall_1: 0.418 F1_1: 0.461 
+================ val acc (Thu Dec 29 14:32:09 2022) ================
+(epoch: 127) Overall_Acc: 0.951 Mean_IoU: 0.627 0: 0.950 1: 0.304 precision_1: 0.515 recall_1: 0.426 F1_1: 0.466 
+================ val acc (Thu Dec 29 14:32:15 2022) ================
+(epoch: 128) Overall_Acc: 0.952 Mean_IoU: 0.637 0: 0.951 1: 0.323 precision_1: 0.522 recall_1: 0.457 F1_1: 0.488 
+================ val acc (Thu Dec 29 14:32:20 2022) ================
+(epoch: 129) Overall_Acc: 0.952 Mean_IoU: 0.630 0: 0.950 1: 0.309 precision_1: 0.521 recall_1: 0.433 F1_1: 0.473 
+================ val acc (Thu Dec 29 14:32:26 2022) ================
+(epoch: 130) Overall_Acc: 0.952 Mean_IoU: 0.640 0: 0.951 1: 0.328 precision_1: 0.524 recall_1: 0.468 F1_1: 0.494 
+================ val acc (Thu Dec 29 14:32:31 2022) ================
+(epoch: 131) Overall_Acc: 0.948 Mean_IoU: 0.636 0: 0.947 1: 0.326 precision_1: 0.486 recall_1: 0.496 F1_1: 0.491 
+================ val acc (Thu Dec 29 14:32:38 2022) ================
+(epoch: 132) Overall_Acc: 0.951 Mean_IoU: 0.633 0: 0.950 1: 0.317 precision_1: 0.511 recall_1: 0.454 F1_1: 0.481 
+================ val acc (Thu Dec 29 14:32:43 2022) ================
+(epoch: 133) Overall_Acc: 0.952 Mean_IoU: 0.633 0: 0.951 1: 0.315 precision_1: 0.529 recall_1: 0.437 F1_1: 0.479 
+================ val acc (Thu Dec 29 14:32:48 2022) ================
+(epoch: 134) Overall_Acc: 0.950 Mean_IoU: 0.636 0: 0.949 1: 0.324 precision_1: 0.501 recall_1: 0.478 F1_1: 0.489 
+================ val acc (Thu Dec 29 14:32:54 2022) ================
+(epoch: 135) Overall_Acc: 0.952 Mean_IoU: 0.630 0: 0.951 1: 0.309 precision_1: 0.533 recall_1: 0.425 F1_1: 0.472 
+================ val acc (Thu Dec 29 14:32:59 2022) ================
+(epoch: 136) Overall_Acc: 0.953 Mean_IoU: 0.635 0: 0.952 1: 0.319 precision_1: 0.534 recall_1: 0.442 F1_1: 0.484 
+================ val acc (Thu Dec 29 14:33:05 2022) ================
+(epoch: 137) Overall_Acc: 0.953 Mean_IoU: 0.629 0: 0.952 1: 0.307 precision_1: 0.535 recall_1: 0.418 F1_1: 0.469 
+================ val acc (Thu Dec 29 14:33:10 2022) ================
+(epoch: 138) Overall_Acc: 0.953 Mean_IoU: 0.626 0: 0.952 1: 0.300 precision_1: 0.537 recall_1: 0.404 F1_1: 0.461 
+================ val acc (Thu Dec 29 14:33:15 2022) ================
+(epoch: 139) Overall_Acc: 0.953 Mean_IoU: 0.626 0: 0.952 1: 0.300 precision_1: 0.549 recall_1: 0.399 F1_1: 0.462 
+================ val acc (Thu Dec 29 14:33:21 2022) ================
+(epoch: 140) Overall_Acc: 0.949 Mean_IoU: 0.632 0: 0.948 1: 0.316 precision_1: 0.493 recall_1: 0.469 F1_1: 0.480 
+================ val acc (Thu Dec 29 14:33:26 2022) ================
+(epoch: 141) Overall_Acc: 0.952 Mean_IoU: 0.633 0: 0.951 1: 0.315 precision_1: 0.525 recall_1: 0.441 F1_1: 0.479 
+================ val acc (Thu Dec 29 14:33:31 2022) ================
+(epoch: 142) Overall_Acc: 0.949 Mean_IoU: 0.635 0: 0.948 1: 0.322 precision_1: 0.496 recall_1: 0.478 F1_1: 0.487 
+================ val acc (Thu Dec 29 14:33:37 2022) ================
+(epoch: 143) Overall_Acc: 0.952 Mean_IoU: 0.624 0: 0.951 1: 0.297 precision_1: 0.534 recall_1: 0.401 F1_1: 0.458 
+================ val acc (Thu Dec 29 14:33:42 2022) ================
+(epoch: 144) Overall_Acc: 0.952 Mean_IoU: 0.620 0: 0.951 1: 0.289 precision_1: 0.533 recall_1: 0.387 F1_1: 0.449 
+================ val acc (Thu Dec 29 14:33:48 2022) ================
+(epoch: 145) Overall_Acc: 0.952 Mean_IoU: 0.627 0: 0.951 1: 0.303 precision_1: 0.525 recall_1: 0.418 F1_1: 0.465 
+================ val acc (Thu Dec 29 14:33:53 2022) ================
+(epoch: 146) Overall_Acc: 0.953 Mean_IoU: 0.618 0: 0.952 1: 0.284 precision_1: 0.543 recall_1: 0.373 F1_1: 0.442 
+================ val acc (Thu Dec 29 14:33:59 2022) ================
+(epoch: 147) Overall_Acc: 0.952 Mean_IoU: 0.620 0: 0.951 1: 0.289 precision_1: 0.527 recall_1: 0.389 F1_1: 0.448 
+================ val acc (Thu Dec 29 14:34:04 2022) ================
+(epoch: 148) Overall_Acc: 0.952 Mean_IoU: 0.628 0: 0.951 1: 0.306 precision_1: 0.521 recall_1: 0.426 F1_1: 0.469 
+================ val acc (Thu Dec 29 14:34:09 2022) ================
+(epoch: 149) Overall_Acc: 0.952 Mean_IoU: 0.624 0: 0.951 1: 0.296 precision_1: 0.535 recall_1: 0.399 F1_1: 0.457 
+================ val acc (Thu Dec 29 14:34:15 2022) ================
+(epoch: 150) Overall_Acc: 0.946 Mean_IoU: 0.629 0: 0.945 1: 0.313 precision_1: 0.466 recall_1: 0.490 F1_1: 0.477 
+================ val acc (Thu Dec 29 14:34:20 2022) ================
+(epoch: 151) Overall_Acc: 0.950 Mean_IoU: 0.625 0: 0.949 1: 0.302 precision_1: 0.498 recall_1: 0.435 F1_1: 0.464 
+================ val acc (Thu Dec 29 14:34:26 2022) ================
+(epoch: 152) Overall_Acc: 0.953 Mean_IoU: 0.622 0: 0.953 1: 0.292 precision_1: 0.552 recall_1: 0.383 F1_1: 0.452 
+================ val acc (Thu Dec 29 14:34:31 2022) ================
+(epoch: 153) Overall_Acc: 0.953 Mean_IoU: 0.619 0: 0.952 1: 0.287 precision_1: 0.541 recall_1: 0.380 F1_1: 0.446 
+================ val acc (Thu Dec 29 14:34:36 2022) ================
+(epoch: 154) Overall_Acc: 0.952 Mean_IoU: 0.629 0: 0.951 1: 0.306 precision_1: 0.522 recall_1: 0.426 F1_1: 0.469 
+================ val acc (Thu Dec 29 14:34:42 2022) ================
+(epoch: 155) Overall_Acc: 0.952 Mean_IoU: 0.627 0: 0.951 1: 0.303 precision_1: 0.533 recall_1: 0.412 F1_1: 0.465 
+================ val acc (Thu Dec 29 14:34:47 2022) ================
+(epoch: 156) Overall_Acc: 0.951 Mean_IoU: 0.628 0: 0.950 1: 0.305 precision_1: 0.511 recall_1: 0.431 F1_1: 0.468 
+================ val acc (Thu Dec 29 14:34:53 2022) ================
+(epoch: 157) Overall_Acc: 0.952 Mean_IoU: 0.612 0: 0.951 1: 0.273 precision_1: 0.532 recall_1: 0.360 F1_1: 0.429 
+================ val acc (Thu Dec 29 14:34:59 2022) ================
+(epoch: 158) Overall_Acc: 0.951 Mean_IoU: 0.630 0: 0.949 1: 0.311 precision_1: 0.509 recall_1: 0.446 F1_1: 0.475 
+================ val acc (Thu Dec 29 14:35:04 2022) ================
+(epoch: 159) Overall_Acc: 0.952 Mean_IoU: 0.618 0: 0.951 1: 0.285 precision_1: 0.532 recall_1: 0.380 F1_1: 0.443 
+================ val acc (Thu Dec 29 14:35:09 2022) ================
+(epoch: 160) Overall_Acc: 0.952 Mean_IoU: 0.615 0: 0.951 1: 0.279 precision_1: 0.526 recall_1: 0.372 F1_1: 0.436 
+================ val acc (Thu Dec 29 14:35:15 2022) ================
+(epoch: 161) Overall_Acc: 0.951 Mean_IoU: 0.624 0: 0.950 1: 0.297 precision_1: 0.520 recall_1: 0.409 F1_1: 0.458 
+================ val acc (Thu Dec 29 14:35:20 2022) ================
+(epoch: 162) Overall_Acc: 0.952 Mean_IoU: 0.623 0: 0.951 1: 0.296 precision_1: 0.527 recall_1: 0.403 F1_1: 0.457 
+================ val acc (Thu Dec 29 14:35:26 2022) ================
+(epoch: 163) Overall_Acc: 0.952 Mean_IoU: 0.619 0: 0.951 1: 0.287 precision_1: 0.533 recall_1: 0.384 F1_1: 0.446 
+================ val acc (Thu Dec 29 14:35:31 2022) ================
+(epoch: 164) Overall_Acc: 0.952 Mean_IoU: 0.620 0: 0.951 1: 0.289 precision_1: 0.529 recall_1: 0.389 F1_1: 0.448 
+================ val acc (Thu Dec 29 14:35:36 2022) ================
+(epoch: 165) Overall_Acc: 0.953 Mean_IoU: 0.630 0: 0.952 1: 0.308 precision_1: 0.535 recall_1: 0.421 F1_1: 0.471 
+================ val acc (Thu Dec 29 14:35:42 2022) ================
+(epoch: 166) Overall_Acc: 0.953 Mean_IoU: 0.621 0: 0.952 1: 0.290 precision_1: 0.545 recall_1: 0.383 F1_1: 0.450 
+================ val acc (Thu Dec 29 14:35:47 2022) ================
+(epoch: 167) Overall_Acc: 0.951 Mean_IoU: 0.620 0: 0.950 1: 0.290 precision_1: 0.516 recall_1: 0.398 F1_1: 0.449 
+================ val acc (Thu Dec 29 14:35:52 2022) ================
+(epoch: 168) Overall_Acc: 0.952 Mean_IoU: 0.619 0: 0.951 1: 0.288 precision_1: 0.526 recall_1: 0.388 F1_1: 0.447 
+================ val acc (Thu Dec 29 14:35:58 2022) ================
+(epoch: 169) Overall_Acc: 0.953 Mean_IoU: 0.617 0: 0.952 1: 0.282 precision_1: 0.539 recall_1: 0.371 F1_1: 0.439 
+================ val acc (Thu Dec 29 14:36:03 2022) ================
+(epoch: 170) Overall_Acc: 0.952 Mean_IoU: 0.618 0: 0.951 1: 0.286 precision_1: 0.527 recall_1: 0.385 F1_1: 0.445 
+================ val acc (Thu Dec 29 14:36:09 2022) ================
+(epoch: 171) Overall_Acc: 0.953 Mean_IoU: 0.611 0: 0.952 1: 0.270 precision_1: 0.545 recall_1: 0.348 F1_1: 0.425 
+================ val acc (Thu Dec 29 14:36:14 2022) ================
+(epoch: 172) Overall_Acc: 0.952 Mean_IoU: 0.613 0: 0.951 1: 0.275 precision_1: 0.536 recall_1: 0.360 F1_1: 0.431 
+================ val acc (Thu Dec 29 14:36:19 2022) ================
+(epoch: 173) Overall_Acc: 0.952 Mean_IoU: 0.616 0: 0.951 1: 0.281 precision_1: 0.532 recall_1: 0.374 F1_1: 0.439 
+================ val acc (Thu Dec 29 14:36:24 2022) ================
+(epoch: 174) Overall_Acc: 0.953 Mean_IoU: 0.618 0: 0.952 1: 0.284 precision_1: 0.542 recall_1: 0.373 F1_1: 0.442 
+================ val acc (Thu Dec 29 14:36:30 2022) ================
+(epoch: 175) Overall_Acc: 0.952 Mean_IoU: 0.621 0: 0.951 1: 0.291 precision_1: 0.531 recall_1: 0.392 F1_1: 0.451 
+================ val acc (Thu Dec 29 14:36:35 2022) ================
+(epoch: 176) Overall_Acc: 0.952 Mean_IoU: 0.616 0: 0.952 1: 0.281 precision_1: 0.538 recall_1: 0.370 F1_1: 0.438 
+================ val acc (Thu Dec 29 14:36:40 2022) ================
+(epoch: 177) Overall_Acc: 0.953 Mean_IoU: 0.610 0: 0.952 1: 0.268 precision_1: 0.548 recall_1: 0.344 F1_1: 0.423 
+================ val acc (Thu Dec 29 14:36:46 2022) ================
+(epoch: 178) Overall_Acc: 0.953 Mean_IoU: 0.617 0: 0.952 1: 0.283 precision_1: 0.540 recall_1: 0.373 F1_1: 0.441 
+================ val acc (Thu Dec 29 14:36:51 2022) ================
+(epoch: 179) Overall_Acc: 0.952 Mean_IoU: 0.612 0: 0.951 1: 0.273 precision_1: 0.535 recall_1: 0.357 F1_1: 0.429 
+================ val acc (Thu Dec 29 14:36:57 2022) ================
+(epoch: 180) Overall_Acc: 0.952 Mean_IoU: 0.619 0: 0.951 1: 0.286 precision_1: 0.528 recall_1: 0.385 F1_1: 0.445 
+================ val acc (Thu Dec 29 14:37:02 2022) ================
+(epoch: 181) Overall_Acc: 0.953 Mean_IoU: 0.614 0: 0.952 1: 0.276 precision_1: 0.544 recall_1: 0.359 F1_1: 0.433 
+================ val acc (Thu Dec 29 14:37:08 2022) ================
+(epoch: 182) Overall_Acc: 0.951 Mean_IoU: 0.618 0: 0.950 1: 0.287 precision_1: 0.513 recall_1: 0.393 F1_1: 0.445 
+================ val acc (Thu Dec 29 14:37:13 2022) ================
+(epoch: 183) Overall_Acc: 0.951 Mean_IoU: 0.617 0: 0.950 1: 0.285 precision_1: 0.515 recall_1: 0.389 F1_1: 0.443 
+================ val acc (Thu Dec 29 14:37:18 2022) ================
+(epoch: 184) Overall_Acc: 0.952 Mean_IoU: 0.611 0: 0.952 1: 0.270 precision_1: 0.540 recall_1: 0.351 F1_1: 0.425 
+================ val acc (Thu Dec 29 14:37:25 2022) ================
+(epoch: 185) Overall_Acc: 0.952 Mean_IoU: 0.612 0: 0.951 1: 0.272 precision_1: 0.534 recall_1: 0.357 F1_1: 0.428 
+================ val acc (Thu Dec 29 14:37:30 2022) ================
+(epoch: 186) Overall_Acc: 0.952 Mean_IoU: 0.615 0: 0.951 1: 0.280 precision_1: 0.525 recall_1: 0.374 F1_1: 0.437 
+================ val acc (Thu Dec 29 14:37:35 2022) ================
+(epoch: 187) Overall_Acc: 0.952 Mean_IoU: 0.615 0: 0.951 1: 0.279 precision_1: 0.525 recall_1: 0.374 F1_1: 0.437 
+================ val acc (Thu Dec 29 14:37:41 2022) ================
+(epoch: 188) Overall_Acc: 0.952 Mean_IoU: 0.617 0: 0.951 1: 0.282 precision_1: 0.528 recall_1: 0.378 F1_1: 0.440 
+================ val acc (Thu Dec 29 14:37:46 2022) ================
+(epoch: 189) Overall_Acc: 0.952 Mean_IoU: 0.614 0: 0.952 1: 0.276 precision_1: 0.538 recall_1: 0.361 F1_1: 0.432 
+================ val acc (Thu Dec 29 14:37:51 2022) ================
+(epoch: 190) Overall_Acc: 0.952 Mean_IoU: 0.617 0: 0.951 1: 0.284 precision_1: 0.527 recall_1: 0.381 F1_1: 0.442 
+================ val acc (Thu Dec 29 14:37:57 2022) ================
+(epoch: 191) Overall_Acc: 0.952 Mean_IoU: 0.614 0: 0.951 1: 0.276 precision_1: 0.529 recall_1: 0.366 F1_1: 0.433 
+================ val acc (Thu Dec 29 14:38:02 2022) ================
+(epoch: 192) Overall_Acc: 0.952 Mean_IoU: 0.619 0: 0.951 1: 0.286 precision_1: 0.528 recall_1: 0.385 F1_1: 0.445 
+================ val acc (Thu Dec 29 14:38:07 2022) ================
+(epoch: 193) Overall_Acc: 0.952 Mean_IoU: 0.616 0: 0.951 1: 0.281 precision_1: 0.531 recall_1: 0.373 F1_1: 0.438 
+================ val acc (Thu Dec 29 14:38:13 2022) ================
+(epoch: 194) Overall_Acc: 0.952 Mean_IoU: 0.614 0: 0.951 1: 0.278 precision_1: 0.534 recall_1: 0.366 F1_1: 0.434 
+================ val acc (Thu Dec 29 14:38:18 2022) ================
+(epoch: 195) Overall_Acc: 0.952 Mean_IoU: 0.616 0: 0.951 1: 0.280 precision_1: 0.533 recall_1: 0.371 F1_1: 0.437 
+================ val acc (Thu Dec 29 14:38:24 2022) ================
+(epoch: 196) Overall_Acc: 0.953 Mean_IoU: 0.612 0: 0.952 1: 0.272 precision_1: 0.541 recall_1: 0.354 F1_1: 0.427 
+================ val acc (Thu Dec 29 14:38:29 2022) ================
+(epoch: 197) Overall_Acc: 0.952 Mean_IoU: 0.614 0: 0.951 1: 0.276 precision_1: 0.533 recall_1: 0.364 F1_1: 0.433 
+================ val acc (Thu Dec 29 14:38:34 2022) ================
+(epoch: 198) Overall_Acc: 0.952 Mean_IoU: 0.613 0: 0.951 1: 0.275 precision_1: 0.533 recall_1: 0.362 F1_1: 0.431 
+================ val acc (Thu Dec 29 14:38:40 2022) ================
+(epoch: 199) Overall_Acc: 0.952 Mean_IoU: 0.613 0: 0.951 1: 0.276 precision_1: 0.535 recall_1: 0.362 F1_1: 0.432 
+================ val acc (Thu Dec 29 14:38:45 2022) ================
+(epoch: 200) Overall_Acc: 0.952 Mean_IoU: 0.613 0: 0.951 1: 0.275 precision_1: 0.536 recall_1: 0.361 F1_1: 0.432 
