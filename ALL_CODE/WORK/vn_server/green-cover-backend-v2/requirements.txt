@@ -1,0 +1,45 @@
+flask~=1.1.1
+flask_script
+flask_migrate
+flask_restful
+flask-basicauth
+flask-cors
+flask-caching
+flask-sqlalchemy
+requests~=2.23.0
+# pyproj
+# scikit-image
+# google-cloud-storage
+# google-api-python-client
+# earthengine-api
+# geojson
+# rdp
+# psycopg2
+# retrying
+shapely==1.6.4
+redis==3.5.0
+# tqdm
+rq~=1.5.0
+# rasterstats
+# pyshp
+# imgaug
+# sklearn
+# IPython
+sentinelsat~=0.13
+rio-cogeo
+rio-tiler=2.0.0
+geopandas~=0.7.0
+# folium
+# geoalchemy2
+geopy
+# xmltodict
+# sentinelhub
+# stripe
+geodaisy~=0.1.1
+# wand
+werkzeug~=0.16.1
+gdal~=2.3.2
+numpy~=1.19.1
+sqlalchemy~=1.3.13
+fiona~=1.8.13.post1
+rasterio~=1.1.7
