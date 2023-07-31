@@ -1,0 +1,4 @@
+train: ../train_data/train_ship_256
+val: ../train_data/val_ship_256
+nc: 1
+names: ['ship']

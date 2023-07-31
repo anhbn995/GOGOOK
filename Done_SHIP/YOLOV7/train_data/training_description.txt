@@ -1,0 +1,1 @@
+on driver of tai khoan DangKinhBac data_Train_ship/yolov7

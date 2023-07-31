@@ -162,5 +162,7 @@ cython_debug/
 Done_SHIP/sdd_faster/train_custom
 # Done_SHIP/YOLOV7/yolov7/cfg/baseline
 Done_SHIP/YOLOV7/yolov7/test_images
-# *.png
-Done_SHIP/YOLOV7
+Done_SHIP/YOLOV7/yolov7/pretrain
+Done_SHIP/YOLOV7/yolov7/__pycache__
+*.pt
+# Done_SHIP/YOLOV7
