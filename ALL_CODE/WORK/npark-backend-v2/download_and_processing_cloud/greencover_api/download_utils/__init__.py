@@ -1,0 +1,1 @@
+from download_and_processing_cloud.greencover_api.download_utils.step0_download_image import main as download_data
