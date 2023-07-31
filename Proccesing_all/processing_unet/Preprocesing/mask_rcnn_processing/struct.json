@@ -1,0 +1,94 @@
+{
+    "info": {
+        "contributor": "crowdAI.org",
+        "about": "Dataset for crowdAI Mapping Challenge",
+        "date_created": "07/03/2018",
+        "description": "crowdAI mapping-challenge dataset",
+        "url": "https://www.crowdai.org/challenges/mapping-challenge",
+        "version": "1.0",
+        "year": 2018
+    },
+    "categories": [
+        {
+            "id": 100,
+            "name": "building",
+            "supercategory": "building"
+        }
+    ],
+    "images": [
+        {
+            "id": 20289,
+            "file_name": "000000020289.jpg",
+            "width": 300,
+            "height": 300
+        },
+        {
+            "id": 45176,
+            "file_name": "000000045176.jpg",
+            "width": 300,
+            "height": 300
+        },
+        {
+            "id": 7472,
+            "file_name": "000000007472.jpg",
+            "width": 300,
+            "height": 300
+        }
+    ],
+    "annotations": [
+        {
+            "id": 377545,
+            "image_id": 44153,
+            "segmentation": [
+                [
+                    152.0,
+                    180.0,
+                    156.0,
+                    176.0,
+                    160.0,
+                    181.0,
+                    156.0,
+                    186.0,
+                    152.0,
+                    180.0
+                ]
+            ],
+            "area": 42.0,
+            "bbox": [
+                152.0,
+                152.0,
+                28.0,
+                8.0
+            ],
+            "category_id": 100,
+            "iscrowd": 0
+        },
+        {
+            "id": 446305,
+            "image_id": 52178,
+            "segmentation": [
+                [
+                    257,
+                    123,
+                    243,
+                    123,
+                    243,
+                    112,
+                    257,
+                    112,
+                    257,
+                    123
+                ]
+            ],
+            "area": 154.0,
+            "bbox": [
+                123,
+                243,
+                134,
+                14
+            ],
+            "category_id": 100,
+            "iscrowd": 0
+        }
+    ]
+}

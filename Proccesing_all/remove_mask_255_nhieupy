@@ -1,0 +1,20 @@
+import rasterio
+import os, glob
+
+
+def remove_img_nodata(fp_img_mask_check, fp_img, percent_zeros=50):
+    with rasterio.open(fp_img_mask_check) as src:
+        img = src.read()
+        number_pixel = src.height*src.width
+
+    number_pixel_0 = np.count_nonzero(img==0)
+    if number_pixel_0/number_pixel > percent_zeros/100:
+        if os.path.exists(fp_img_mask_check):
+            os.remove(fp_img_mask_check)
+        else:
+            print("The file mask does not exist")
+
+        if os.path.exists(fp_img):
+            os.remove(fp_img)
+        else:
+            print("The file img does not exist")

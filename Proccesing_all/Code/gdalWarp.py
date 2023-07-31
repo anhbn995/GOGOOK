@@ -1,0 +1,2 @@
+import gdal
+gdal.Warp("/media/khoi/Image/9dbd840d6a61409f8e1d7845a239d14d/733_548_base11111111111111111.tif","/media/khoi/Image/9dbd840d6a61409f8e1d7845a239d14d/733_548_base.tif",cutlineDSName="/media/khoi/Image/9dbd840d6a61409f8e1d7845a239d14d/merged.geojson",cropToCutline=True)

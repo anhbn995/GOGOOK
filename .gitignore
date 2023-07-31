@@ -179,3 +179,11 @@ Done_SHIP/Test_hay/MiAI_SSD_TF2/data/split_data
 Done_SHIP/Test_hay/MiAI_SSD_TF2/output_model
 Done_SHIP/Test_hay/MiAI_SSD_TF2/pretrained
 Done_SHIP/Test_hay/MiAI_SSD_TF2/data
+Done_SHIP/Test_hay/MiAI_SSD_TF2/models
+*.geojson
+*.shp
+*.shx
+*.dbf
+*.prj
+*.tif
+*.cpg
