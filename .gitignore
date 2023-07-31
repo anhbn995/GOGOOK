@@ -159,10 +159,13 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
-Done_SHIP/sdd_faster/train_custom
-# Done_SHIP/YOLOV7/yolov7/cfg/baseline
-Done_SHIP/YOLOV7/yolov7/test_images
-Done_SHIP/YOLOV7/yolov7/pretrain
-Done_SHIP/YOLOV7/yolov7/__pycache__
-*.pt
+# Done_SHIP/sdd_faster/train_custom
+# # Done_SHIP/YOLOV7/yolov7/cfg/baseline
+# Done_SHIP/YOLOV7/yolov7/test_images
+# Done_SHIP/YOLOV7/yolov7/pretrain
+# Done_SHIP/YOLOV7/yolov7/__pycache__
+# *.pt
 # Done_SHIP/YOLOV7
+Done_SHIP/sdd_faster/train_custom
+Done_SHIP/YOLOV7/yolov7/pretrain/yolov7.pt
+Done_SHIP/YOLOV7/yolov7/traced_model.pt
