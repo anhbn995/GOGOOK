@@ -1,0 +1,44 @@
+{
+    "input_size": [
+        256,
+        256,
+        3
+    ],
+    "filter_num_begin": 64,
+    "n_labels": 1,
+    "depth": 4,
+    "stack_num_down": 2,
+    "stack_num_up": 2,
+    "patch_size": [2, 2],
+    "num_heads": [4, 8, 8, 8],
+    "window_size": [4, 2, 2, 2],
+    "num_mlp": 512,
+    "output_activation": "Sigmoid",
+    "shift_window": true,
+    "name": "swin_unet",
+    "data":{"img_size":256,
+        "num_band":3,
+        "stride_crop":128,
+        "split_ratios":0.8,
+        "use_test":false,
+        "use_multi":false
+        },
+    "strategy":{"epochs":100,
+            "batch_size":4,
+            "init_loss":1e-4,
+            "_comment":["BinaryCrossentropy()"],
+            "_comment":["binary_focal_loss(alpha=.25, gamma=2)"],
+	    "losses":["balanced_cross_entropy_loss"],
+            "loss_weights":[1.0],
+            "optimizer":"Adam()",
+            "metrics":["Precision()", "Recall()", "dice_coef", "iou", "BinaryAccuracy()"]
+            },
+    "predict":{"img_size":256,
+               "crop_size":200,
+               "num_band":3,
+               "batch_size":1,
+               "thresh_hold":0.5,
+               "use_dil":false,
+               "rm_small":false
+            }
+}

@@ -186,10 +186,11 @@ Done_SHIP/Test_hay/MiAI_SSD_TF2/models
 *.dbf
 *.prj
 *.tif
+*.qpj
 *.cpg
 ALL_CODE/building_footprint_v1
 *.h5
-*.xml
+# *.xml
 *.pth
 
 ALL_CODE/WORK/ChangeFormer
@@ -200,8 +201,8 @@ ALL_CODE/WORK/IMELE
 ALL_CODE/WORK/IMELE_2
 ALL_CODE/WORK/KiemThu
 ALL_CODE/WORK/npark-backend-v2
-# ALL_CODE/WORK/Openland
-ALL_CODE/WORK/Q
+ALL_CODE/WORK/Openland
+# ALL_CODE/WORK/Q
 ALL_CODE/WORK/Q1
 ALL_CODE/WORK/STaNet
 ALL_CODE/WORK/U2Net
@@ -211,3 +212,5 @@ ALL_CODE/WORK/vn_server
 ALL_CODE/WorkSpace_SKM_DucAnh
 ALL_CODE/WorkSpaceDucAnh
 ALL_CODE/WORK/KiemThu/data
+ALL_CODE/WORK/Q/logs/cloud_distribute_ducanh123/graph/train
+ALL_CODE/WORK/Q/logs/cloud_distribute_ducanh/graph/train

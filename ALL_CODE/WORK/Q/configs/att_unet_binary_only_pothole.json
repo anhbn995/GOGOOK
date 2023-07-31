@@ -1,0 +1,54 @@
+{
+    "input_size": [
+        256,
+        256,
+        3
+    ],
+    "filter_num": [
+        64,
+        128,
+        256,
+        512
+    ],
+    "n_labels": 1,
+    "stack_num_down": 2,
+    "stack_num_up": 2,
+    "activation": "ReLU",
+    "atten_activation": "ReLU",
+    "attention": "add",
+    "output_activation": "Sigmoid",
+    "batch_norm": true,
+    "pool": true,
+    "unpool": true,
+    "backbone": null,
+    "weights": "imagenet",
+    "freeze_backbone": false,
+    "freeze_batch_norm": true,
+    "name": "att_unet",
+    "data":{"img_size":256,
+        "num_band":3,
+        "stride_crop":128,
+        "split_ratios":0.85,
+        "use_test":false,
+        "use_multi":false
+        },
+    "strategy":{"epochs":100,
+            "batch_size":8,
+            "init_loss":1e-4,
+            "_comment":["BinaryCrossentropy()"],
+       	    "losses":["binary_focal_loss(alpha=.25, gamma=2)"],
+	    "_comment":["balanced_cross_entropy_loss"],
+	    "_comment":["hybrid_loss"],
+            "loss_weights":[1.0],
+            "optimizer":"Adam()",
+            "metrics":["Precision()", "Recall()", "dice_coef", "iou", "BinaryAccuracy()"]
+            },
+    "predict":{"img_size":256,
+               "crop_size":200,
+               "num_band":3,
+               "batch_size":1,
+               "thresh_hold":0.5,
+               "use_dil":false,
+               "rm_small":false
+            }
+}

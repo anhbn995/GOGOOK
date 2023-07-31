@@ -1,0 +1,60 @@
+{
+    "input_shape": [
+        512,
+        512,
+        4
+    ],
+    "model_name": "swin_tiny_224",
+    "include_top": false,
+    "patch_size": [
+        4,
+        4
+    ],
+    "mlp_ratio": 4.0,
+    "qkv_bias": true,
+    "qk_scale": null,
+    "drop_rate": 0.0,
+    "attn_drop_rate": 0.0,
+    "drop_path_rate": 0.1,
+    "norm_layer": "LayerNormalization",
+    "ape": false,
+    "patch_norm": true,
+    "use_checkpoint": false,
+    "ppm_filter": 128,
+    "ppm_scales": [
+        1,
+        2,
+        3,
+        6
+    ],
+    "n_labels": 1,
+    "use_bias": false,
+    "conv_filter": 128,
+    "activation_fn": "Sigmoid",
+    "name":"upernet",
+    "data":{"img_size":512,
+        "num_band":4,
+        "stride_crop":128,
+        "split_ratios":1.0,
+        "use_test":false,
+        "use_multi":false
+        },
+    "strategy":{"epochs":100,
+            "batch_size":2,
+            "init_loss":1e-4,
+	    "losses":["focal_tversky", "focal_tversky"],
+            "_commnet":["BinaryCrossentropy()", "BinaryCrossentropy()"],
+            "loss_weights":[1.0, 0.4],
+            "optimizer":"Adam()",
+            "metrics":["Precision()", "Recall()", "dice_coef", "iou", "BinaryAccuracy()"]
+            },
+    "predict":{"img_size":512,
+                "crop_size":400,
+                "num_band":4,
+                "batch_size":1,
+                "thresh_hold":0.5,
+                "use_dil":false,
+                "rm_small":false,
+		"choose_stage":0
+             }
+}
