@@ -1,0 +1,10 @@
+- Copy ảnh cần mosaic vào thu mục /home/skm/SKM_OLD/geoai_data_test/data_mosaic
+- Kết quả chạy ra /home/skm/SKM_OLD/geoai_data_test/temp/outpath.tif
+
+ sudo nano /etc/fstab
+
+
+(pdf) E:\New folder\pdf-extractor>flask run --host 0.0.0.0
+http://192.168.4.166:8081/pages/login?admin=true
+admin@admin.com
+admin

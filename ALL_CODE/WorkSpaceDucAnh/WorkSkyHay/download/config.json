@@ -1,0 +1,9 @@
+{"input_shape":"",
+"shape_path": "./new_gg.geojson", 
+"output_path": "/home/skymap/data/download_img/download",
+"zoomLevel":18,
+"name":"google_z18_new",
+"id_computer":0,
+"total_computer":1,
+"map":"google",
+"save_point":0}

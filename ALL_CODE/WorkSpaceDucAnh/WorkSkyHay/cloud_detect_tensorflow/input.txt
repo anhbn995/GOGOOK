@@ -1,0 +1,1 @@
+/home/geoai/ml-models/pretrain-models/cloud-free-mosaic/v2/example-data/test.tif

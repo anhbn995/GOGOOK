@@ -1,0 +1,9 @@
+{"input_shape":"",
+"shape_path": "./north_luwu_split.geojson", 
+"output_path": "./img_down",
+"zoomLevel":18,
+"name":"tile_z11_north_luwu",
+"id_computer":0,
+"total_computer":1,
+"map":"esri",
+"save_point":0}
