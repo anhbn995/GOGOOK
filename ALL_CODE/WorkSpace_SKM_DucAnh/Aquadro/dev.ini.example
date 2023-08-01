@@ -1,0 +1,30 @@
+[uwsgi]
+chdir = /home/ubuntu/s2tile.eofactory.ai
+wsgi-file       = app.wsgi
+home = /home/ubuntu/anaconda3/envs/geoaiv2
+
+master          = true
+enable-threads  = true
+
+py-autoreload = 1
+reload-mercy = 0
+worker-reload-mercy = 0
+touch-reload = dev.ini
+
+need-app = true
+single-interpreter = true
+# clear environment on exit
+vacuum          = true
+harakiri = 4320                     ; forcefully kill workers after 12 hours
+py-callos-afterfork = true           ; allow workers to trap signals
+max-requests = 1000                  ; Restart workers after this many requests
+max-worker-lifetime = 360          ; Restart workers after this many seconds
+reload-on-rss = 2400                 ; Restart workers after this much resident memory
+worker-reload-mercy = 30             ; How long to wait before forcefully killing workers
+
+cheaper-algo = busyness
+processes = 128                      ; Maximum number of workers allowed
+cheaper = 4                          ; Minimum number of workers allowed
+cheaper-initial = 4                 ; Workers created at startup
+cheaper-overload = 1                 ; Length of a cycle in seconds
+cheaper-step = 2                    ; How many workers to spawn at a time

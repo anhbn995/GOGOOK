@@ -1,0 +1,4 @@
+**/__pycache__
+**/.git
+app.wsgi
+uwsgi.ini

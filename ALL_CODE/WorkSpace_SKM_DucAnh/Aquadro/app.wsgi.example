@@ -1,0 +1,8 @@
+import sys
+sys.path.insert(0, '/home/geoai/geoai_data_test2/s2tile-aws')
+
+from app import app
+application = app.create_http_app("production")
+
+if __name__ == "__main__":
+    application.run(port=5006, host='0.0.0.0')

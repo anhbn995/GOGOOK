@@ -1,0 +1,38 @@
+name: monitor
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - gdal
+  - rasterio
+  - uwsgi
+  - pip:
+    - flask
+    - flask-cors
+    - flask-restful
+    - flask-sqlalchemy
+    - flask_caching
+    - click
+    - geopandas
+    - environs
+    - geojson
+    - opencv-python-headless
+    - psycopg2
+    - redis_queue
+    - requests
+    - scikit-learn
+    - scikit-image
+    - mercantile
+    - morecantile
+    - lxml
+    - geopy
+    - rio-cogeo
+    - rio-tiler
+    - rio-tiler-pds
+    - pika
+    - rq
+    - celery
+    - subprocess.run
+    - tensorflow==2.*
+    - tqdm

@@ -1,0 +1,11 @@
+version: "3.7"
+services:
+  monitor-python-server:
+    build: .
+    container_name: monitor-be-python
+    image: eofactory/monitor/be-python:1.0.0
+    ports:
+      - "4002:5002"
+    tty: true
+    restart: always
+
